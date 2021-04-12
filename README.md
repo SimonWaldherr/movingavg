@@ -1,6 +1,6 @@
 # movingavg
 
-In statistics, a moving average is a calculation to analyze data points by creating a series of averages of different subsets of the full data set. 
+Moving average implementation for Go. Moving average is used, among other things, to smooth out outliers in measurement results.
 
 ## usage
 
