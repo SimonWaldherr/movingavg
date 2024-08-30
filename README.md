@@ -1,5 +1,7 @@
 # movingavg
 
+[![Go Report Card](https://goreportcard.com/badge/simonwaldherr.de/go/movingavg)](https://goreportcard.com/report/simonwaldherr.de/go/movingavg)
+
 Moving average implementation for Go. Moving average is used, among other things, to smooth out outliers in measurement results.
 
 ## usage
